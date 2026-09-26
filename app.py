@@ -33,58 +33,51 @@ if "mision04" not in students.columns:
 
 students["mision04"] = students["mision04"].astype(str).str.strip()
 
-CRITERIA = [
-    {
-        "name": "Cumplimiento del rol",
-        "weight": 0.20,
-        "descriptors": {
-            4: "Cumple de manera constante y autónoma las responsabilidades de su rol. Da seguimiento, anticipa necesidades y contribuye al avance de la misión.",
-            3: "Cumple adecuadamente las responsabilidades asignadas a su rol y realiza las tareas requeridas en el tiempo establecido.",
-            2: "Cumple parcialmente las responsabilidades de su rol o requiere seguimiento y recordatorios para completar sus tareas.",
-            1: "No cumple de manera suficiente las responsabilidades de su rol o su falta de participación afecta el trabajo del equipo.",
-        },
-    },
-    {
-        "name": "Identificación y razonamiento anatómico",
-        "weight": 0.20,
-        "descriptors": {
-            4: "Identifica y relaciona las estructuras anatómicas con precisión, utilizando nomenclatura, región, cavidad, orientación y relaciones anatómicas para justificar sus conclusiones.",
-            3: "Identifica correctamente las estructuras y utiliza conceptos anatómicos pertinentes para explicar el caso.",
-            2: "Identifica algunas estructuras o relaciones, pero presenta dificultades para integrarlas o justificarlas anatómicamente.",
-            1: "Presenta dificultades importantes para identificar o relacionar las estructuras anatómicas del caso.",
-        },
-    },
-    {
-        "name": "Integración espacial y representación",
-        "weight": 0.20,
-        "descriptors": {
-            4: "Contribuye a construir una representación anatómica clara y espacialmente coherente; integra orientación, relaciones y estructuras relevantes.",
-            3: "Contribuye adecuadamente a la representación y mantiene relaciones espaciales y nomenclatura correctas.",
-            2: "Su aportación a la representación es parcial, poco clara o requiere correcciones.",
-            1: "Su aportación es mínima o presenta errores que dificultan la representación anatómica.",
-        },
-    },
-    {
-        "name": "Aplicación a Ingeniería Biomédica",
-        "weight": 0.20,
-        "descriptors": {
-            4: "Relaciona con claridad el caso anatómico con una aplicación de Ingeniería Biomédica y explica qué información o características anatómicas son relevantes para esa aplicación.",
-            3: "Relaciona correctamente el caso con una aplicación biomédica pertinente y explica su relación con la anatomía.",
-            2: "Propone una relación con Ingeniería Biomédica, pero la conexión con la anatomía es incompleta o requiere mayor justificación.",
-            1: "No logra establecer una relación clara entre el análisis anatómico y una aplicación de Ingeniería Biomédica.",
-        },
-    },
-    {
-        "name": "Colaboración, integración y calidad",
-        "weight": 0.20,
-        "descriptors": {
-            4: "Integra las aportaciones del equipo, comunica con claridad, detecta inconsistencias y contribuye a que el expediente final sea completo, coherente y bien sustentado.",
-            3: "Colabora de manera adecuada, comunica sus aportaciones y contribuye al producto final del equipo.",
-            2: "Participa de manera irregular o sus aportaciones requieren integración, corrección o seguimiento por parte del equipo.",
-            1: "Presenta poca colaboración o sus acciones dificultan la integración y calidad del producto final.",
-        },
-    },
-]
+ROLE_RESPONSIBILITIES = {
+    "Coordinador(a) del equipo": [
+        "Distribuyó las tareas y dio seguimiento al trabajo del equipo.",
+        "Aseguró que se siguieran las instrucciones y criterios de la Misión 04.",
+        "Coordinó la integración final del trabajo.",
+        "Facilitó la comunicación y la toma de decisiones del equipo.",
+    ],
+    "Analista anatómico(a)": [
+        "Identificó correctamente las estructuras anatómicas y utilizó nomenclatura adecuada.",
+        "Ubicó las estructuras en la región o cavidad correspondiente y utilizó orientación anatómica correcta.",
+        "Describió las relaciones anatómicas relevantes para el caso.",
+        "Sustentó la identificación de las estructuras con evidencia anatómica.",
+    ],
+    "Cartógrafo(a) anatómico(a)": [
+        "Construyó el mapa anatómico mediante dibujos, imágenes o modelos tridimensionales.",
+        "Mantuvo la orientación anatómica y la señalización correctas.",
+        "Representó y nombró adecuadamente las estructuras relevantes.",
+        "Integró las relaciones anatómicas en una representación clara.",
+    ],
+    "Analista biomédico(a)": [
+        "Relacionó el caso anatómico con una aplicación de Ingeniería Biomédica.",
+        "Identificó características anatómicas relevantes para la aplicación.",
+        "Explicó cómo la anatomía condiciona el diseño o uso de una solución biomédica.",
+        "Contribuyó con información anatómica necesaria para la aplicación propuesta.",
+    ],
+    "Documentador(a) y redactor(a)": [
+        "Integró la información aportada por los integrantes del equipo.",
+        "Organizó la redacción de manera clara y coherente.",
+        "Integró las fuentes y referencias correspondientes.",
+        "Contribuyó a que el documento final estuviera completo y correctamente presentado.",
+    ],
+    "Revisor(a) de calidad": [
+        "Revisó la precisión anatómica y el sustento de las identificaciones.",
+        "Verificó nomenclatura, orientación y relaciones anatómicas.",
+        "Detectó información faltante, errores o inconsistencias.",
+        "Revisó la calidad de imágenes, citas y formato del producto final.",
+    ],
+}
+
+LEVELS = {
+    4: "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+    3: "Competente todavía con áreas de oportunidad — Desempeñó adecuadamente las responsabilidades de su rol y realizó las tareas esperadas, aunque pudo haber aspectos por fortalecer.",
+    2: "Adecuado pero evidentemente en desarrollo — Cumplió parcialmente las responsabilidades de su rol o necesitó apoyo, recordatorios o seguimiento para completar su participación.",
+    1: "Solamente fue testigo del proceso — Su participación observable fue mínima y no permitió identificar un desempeño efectivo de las responsabilidades del rol.",
+}
 
 ROLES = [
     "Coordinador(a) del equipo",
@@ -131,9 +124,10 @@ if "receipt_code" not in st.session_state:
 # GITHUB
 # ============================================================
 def github_config():
-    token = st.secrets.get("GITHUB_TOKEN", "")
-    repo_name = st.secrets.get("GITHUB_REPO", "")
-    branch = st.secrets.get("GITHUB_BRANCH", "main")
+    github_secrets = st.secrets.get("github", {})
+    token = github_secrets.get("GITHUB_TOKEN", "")
+    repo_name = github_secrets.get("GITHUB_REPO", "Alejandra-LozC/mision04")
+    branch = github_secrets.get("GITHUB_BRANCH", "main")
     return token, repo_name, branch
 
 def github_upload_bytes(path, data_bytes, message):
@@ -277,7 +271,8 @@ def make_receipt_pdf(ev, role, classmates_count, timestamp, receipt_code):
         ("FONTNAME", (0,0), (0,-1), "Helvetica-Bold"),
         ("FONTNAME", (1,0), (1,-1), "Helvetica"),
         ("VALIGN", (0,0), (-1,-1), "TOP"),
-        ("PADDING", (0,0), (-1,-1), 7),
+        ("TOPPADDING", (0,0), (-1,-1), 7),
+        ("BOTTOMPADDING", (0,0), (-1,-1), 7),
     ]))
     story.append(table)
     story.append(Spacer(1, 0.6*cm))
@@ -379,46 +374,50 @@ if classmates.empty:
     st.warning("No hay compañeros registrados en tu equipo.")
     st.stop()
 
-with st.form("coevaluation_form"):
-    all_results = []
+all_results = []
 
-    for _, person in classmates.iterrows():
-        st.subheader(person["nombre_completo"])
-        values = {}
+for _, person in classmates.iterrows():
+    st.subheader(person["nombre_completo"])
 
-        for criterion in CRITERIA:
-            criterion_name = criterion["name"]
-            weight = criterion["weight"]
+    evaluated_role = st.selectbox(
+        "Rol que realmente desempeñó en la Misión 04",
+        ["Selecciona el rol..."] + ROLES,
+        key=f"{person['id']}_role",
+    )
 
-            st.markdown(f"**{criterion_name} — {int(weight*100)} %**")
+    level = None
+    evidence = ""
+    improvement = ""
 
-            values[criterion_name] = st.radio(
-                "Selecciona el nivel que mejor describe el desempeño observado:",
-                [4, 3, 2, 1],
-                format_func=lambda x, d=criterion["descriptors"]:
-                    f"{x} — {d[x]}",
-                key=f"{person['id']}_{criterion_name}",
-                label_visibility="collapsed",
-            )
+    if evaluated_role != "Selecciona el rol...":
+        st.markdown("**Responsabilidades que corresponden a este rol:**")
+        for responsibility in ROLE_RESPONSIBILITIES[evaluated_role]:
+            st.markdown(f"- {responsibility}")
 
-        comment = st.text_area(
-            "Evidencia concreta que justifica tu evaluación",
-            key=f"{person['id']}_comment",
-            placeholder="Describe una conducta, aportación, decisión o evidencia observable."
+        st.markdown("**Desempeño del rol**")
+        level = st.radio(
+            "Selecciona el nivel que mejor describe el desempeño observado:",
+            [4, 3, 2, 1],
+            format_func=lambda x: f"{x} — {LEVELS[x]}",
+            key=f"{person['id']}_level",
+        )
+
+        evidence = st.text_area(
+            "¿Qué podrías señalar como la evidencia más concreta de su participación, que te hizo calificar así?",
+            key=f"{person['id']}_evidence",
+            placeholder="Describe una conducta, aportación o evidencia observable.",
         )
 
         improvement = st.text_area(
-            "¿Qué podría mejorar en próximas misiones? (opcional)",
-            key=f"{person['id']}_improvement"
+            "¿Qué observación tienes sobre lo que podría mejorar al trabajar en grupo?",
+            key=f"{person['id']}_improvement",
+            placeholder="Escribe una observación concreta y útil.",
         )
 
-        all_results.append((person, values, comment, improvement))
-        st.divider()
+    all_results.append((person, evaluated_role, level, evidence, improvement))
+    st.divider()
 
-    submitted = st.form_submit_button(
-        "ENVIAR COEVALUACIÓN",
-        use_container_width=True
-    )
+submitted = st.button("ENVIAR COEVALUACIÓN", use_container_width=True)
 
 # ============================================================
 # ENVÍO
@@ -431,13 +430,12 @@ if submitted:
     rows = []
     timestamp = datetime.now().astimezone().isoformat(timespec="seconds")
 
-    for person, values, comment, improvement in all_results:
-        weighted = sum(
-            values[c["name"]] * c["weight"]
-            for c in CRITERIA
-        )
+    for person, evaluated_role, level, evidence, improvement in all_results:
+        if evaluated_role == "Selecciona el rol..." or level is None:
+            st.error(f"Selecciona el rol y la calificación de {person['nombre_completo']}.")
+            st.stop()
 
-        row = {
+        rows.append({
             "timestamp": timestamp,
             "evaluador_id": str(ev["id"]),
             "evaluador_nombre": ev["nombre_completo"],
@@ -445,16 +443,12 @@ if submitted:
             "rol_evaluador": role,
             "evaluado_id": str(person["id"]),
             "evaluado_nombre": person["nombre_completo"],
-            "puntuacion_ponderada_4": round(weighted, 3),
-            "puntuacion_porcentaje": round(weighted / 4 * 100, 2),
-            "comentario": comment.strip(),
-            "mejora": improvement.strip(),
-        }
-
-        for criterion in CRITERIA:
-            row[criterion["name"]] = values[criterion["name"]]
-
-        rows.append(row)
+            "rol_evaluado": evaluated_role,
+            "calificacion": int(level),
+            "nivel": LEVELS[level],
+            "evidencia_participacion": evidence.strip(),
+            "observacion_trabajo_grupo": improvement.strip(),
+        })
 
     # Unique submission code based on all submitted data.
     payload = json.dumps(

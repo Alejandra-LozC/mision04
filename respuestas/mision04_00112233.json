@@ -1,0 +1,68 @@
+{
+  "mission": "04",
+  "mission_name": "Protocolo de Oxigenación",
+  "submitted_at": "2026-09-26T02:47:19+00:00",
+  "evaluator_id": "00112233",
+  "evaluator_name": "Prueba Sujeto, Test1",
+  "team": "0",
+  "role": "Coordinador(a) del equipo",
+  "receipt_code": "1A35655B038E8C4C",
+  "evaluations": [
+    {
+      "timestamp": "2026-09-26T02:47:19+00:00",
+      "evaluador_id": "00112233",
+      "evaluador_nombre": "Prueba Sujeto, Test1",
+      "equipo": "0",
+      "rol_evaluador": "Coordinador(a) del equipo",
+      "evaluado_id": "00112234",
+      "evaluado_nombre": "Prueba Sujeto, Test2",
+      "rol_evaluado": "Analista anatómico(a)",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "",
+      "observacion_trabajo_grupo": ""
+    },
+    {
+      "timestamp": "2026-09-26T02:47:19+00:00",
+      "evaluador_id": "00112233",
+      "evaluador_nombre": "Prueba Sujeto, Test1",
+      "equipo": "0",
+      "rol_evaluador": "Coordinador(a) del equipo",
+      "evaluado_id": "00112235",
+      "evaluado_nombre": "Prueba Sujeto, Test3",
+      "rol_evaluado": "Cartógrafo(a) anatómico(a)",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "",
+      "observacion_trabajo_grupo": ""
+    },
+    {
+      "timestamp": "2026-09-26T02:47:19+00:00",
+      "evaluador_id": "00112233",
+      "evaluador_nombre": "Prueba Sujeto, Test1",
+      "equipo": "0",
+      "rol_evaluador": "Coordinador(a) del equipo",
+      "evaluado_id": "00112236",
+      "evaluado_nombre": "Prueba Sujeto, Test4",
+      "rol_evaluado": "Analista biomédico(a)",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "",
+      "observacion_trabajo_grupo": ""
+    },
+    {
+      "timestamp": "2026-09-26T02:47:19+00:00",
+      "evaluador_id": "00112233",
+      "evaluador_nombre": "Prueba Sujeto, Test1",
+      "equipo": "0",
+      "rol_evaluador": "Coordinador(a) del equipo",
+      "evaluado_id": "00112237",
+      "evaluado_nombre": "Prueba Sujeto, Test5",
+      "rol_evaluado": "Revisor(a) de calidad",
+      "calificacion": 1,
+      "nivel": "Solamente fue testigo del proceso — Su participación observable fue mínima y no permitió identificar un desempeño efectivo de las responsabilidades del rol.",
+      "evidencia_participacion": "",
+      "observacion_trabajo_grupo": ""
+    }
+  ]
+}

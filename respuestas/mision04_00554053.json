@@ -1,0 +1,82 @@
+{
+  "mission": "04",
+  "mission_name": "Protocolo de Oxigenación",
+  "submitted_at": "2026-10-01T19:55:47+00:00",
+  "evaluator_id": "00554053",
+  "evaluator_name": "Alatorre Quintero, Naomi",
+  "team": "2",
+  "role": "Analista anatómico(a)",
+  "receipt_code": "7B41074498329FA0",
+  "evaluations": [
+    {
+      "timestamp": "2026-10-01T19:55:47+00:00",
+      "evaluador_id": "00554053",
+      "evaluador_nombre": "Alatorre Quintero, Naomi",
+      "equipo": "2",
+      "rol_evaluador": "Analista anatómico(a)",
+      "evaluado_id": "00553159",
+      "evaluado_nombre": "Cruz Montes, Erick",
+      "rol_evaluado": "Documentador(a) y redactor(a)",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "Aportó ideas para mejorar  o resaltar nuestra entrega de trabajo. Cuido el flujo del documento",
+      "observacion_trabajo_grupo": "N/A"
+    },
+    {
+      "timestamp": "2026-10-01T19:55:47+00:00",
+      "evaluador_id": "00554053",
+      "evaluador_nombre": "Alatorre Quintero, Naomi",
+      "equipo": "2",
+      "rol_evaluador": "Analista anatómico(a)",
+      "evaluado_id": "00569611",
+      "evaluado_nombre": "González Vargas, Fernanda",
+      "rol_evaluado": "Coordinador(a) del equipo",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "Distribuyó las tareas y dió seguimiento al trabajo individual de cada uno. Facilitó el trabajo, incluyendo instrucciones específicas en el documentopar para evitar saltarnos puntos de la rubrica",
+      "observacion_trabajo_grupo": "N/A"
+    },
+    {
+      "timestamp": "2026-10-01T19:55:47+00:00",
+      "evaluador_id": "00554053",
+      "evaluador_nombre": "Alatorre Quintero, Naomi",
+      "equipo": "2",
+      "rol_evaluador": "Analista anatómico(a)",
+      "evaluado_id": "00550849",
+      "evaluado_nombre": "Mena Fierro, Daniela",
+      "rol_evaluado": "Analista biomédico(a)",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "Nos compartió la información necesaria para poder aplicar nuestra propuesta y la simulación",
+      "observacion_trabajo_grupo": "N/A"
+    },
+    {
+      "timestamp": "2026-10-01T19:55:47+00:00",
+      "evaluador_id": "00554053",
+      "evaluador_nombre": "Alatorre Quintero, Naomi",
+      "equipo": "2",
+      "rol_evaluador": "Analista anatómico(a)",
+      "evaluado_id": "00554064",
+      "evaluado_nombre": "Torres Delgado, Karol Guadalupe",
+      "rol_evaluado": "Analista biomédico(a)",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "Relacionó el caso anatómico con una aplicación de Ingeniería Biomédica.",
+      "observacion_trabajo_grupo": "N/A"
+    },
+    {
+      "timestamp": "2026-10-01T19:55:47+00:00",
+      "evaluador_id": "00554053",
+      "evaluador_nombre": "Alatorre Quintero, Naomi",
+      "equipo": "2",
+      "rol_evaluador": "Analista anatómico(a)",
+      "evaluado_id": "00546251",
+      "evaluado_nombre": "Valdés Arámbula, Sofia Octivela",
+      "rol_evaluado": "Revisor(a) de calidad",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "Revisó la calidad de imágenes, citas y formato del producto final",
+      "observacion_trabajo_grupo": "NO APLICA"
+    }
+  ]
+}

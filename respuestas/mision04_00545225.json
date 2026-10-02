@@ -1,0 +1,68 @@
+{
+  "mission": "04",
+  "mission_name": "Protocolo de Oxigenación",
+  "submitted_at": "2026-10-02T18:52:15+00:00",
+  "evaluator_id": "00545225",
+  "evaluator_name": "Carmona Herrera, Ximena",
+  "team": "1",
+  "role": "Coordinador(a) del equipo",
+  "receipt_code": "705A353E96117E21",
+  "evaluations": [
+    {
+      "timestamp": "2026-10-02T18:52:15+00:00",
+      "evaluador_id": "00545225",
+      "evaluador_nombre": "Carmona Herrera, Ximena",
+      "equipo": "1",
+      "rol_evaluador": "Coordinador(a) del equipo",
+      "evaluado_id": "00543018",
+      "evaluado_nombre": "Celaya Carlos, Camila",
+      "rol_evaluado": "Analista anatómico(a)",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "Aporto bastante al equipo",
+      "observacion_trabajo_grupo": "Es una persona que se involucra en el equipo y apoya bastante"
+    },
+    {
+      "timestamp": "2026-10-02T18:52:15+00:00",
+      "evaluador_id": "00545225",
+      "evaluador_nombre": "Carmona Herrera, Ximena",
+      "equipo": "1",
+      "rol_evaluador": "Coordinador(a) del equipo",
+      "evaluado_id": "00551276",
+      "evaluado_nombre": "Enríquez Moreno, Fabiana",
+      "rol_evaluado": "Cartógrafo(a) anatómico(a)",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "Apoyo mucho al equipo y se involucro",
+      "observacion_trabajo_grupo": "Fue una buena participante"
+    },
+    {
+      "timestamp": "2026-10-02T18:52:15+00:00",
+      "evaluador_id": "00545225",
+      "evaluador_nombre": "Carmona Herrera, Ximena",
+      "equipo": "1",
+      "rol_evaluador": "Coordinador(a) del equipo",
+      "evaluado_id": "00552285",
+      "evaluado_nombre": "Mendizabal Camacho, Bruno",
+      "rol_evaluado": "Documentador(a) y redactor(a)",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "Hizo super bien su trabajo apoyo al equipo",
+      "observacion_trabajo_grupo": "hizo todo lo necesario y aporto bastante"
+    },
+    {
+      "timestamp": "2026-10-02T18:52:15+00:00",
+      "evaluador_id": "00545225",
+      "evaluador_nombre": "Carmona Herrera, Ximena",
+      "equipo": "1",
+      "rol_evaluador": "Coordinador(a) del equipo",
+      "evaluado_id": "00571493",
+      "evaluado_nombre": "Reyes Ruiz, Sergio Daniel",
+      "rol_evaluado": "Analista biomédico(a)",
+      "calificacion": 1,
+      "nivel": "Solamente fue testigo del proceso — Su participación observable fue mínima y no permitió identificar un desempeño efectivo de las responsabilidades del rol.",
+      "evidencia_participacion": "No aporto nada een el documento escrito",
+      "observacion_trabajo_grupo": "no tuvimos aportación de su parte"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "mission": "04",
+  "mission_name": "Protocolo de Oxigenación",
+  "submitted_at": "2026-10-02T18:44:01+00:00",
+  "evaluator_id": "00552285",
+  "evaluator_name": "Mendizabal Camacho, Bruno",
+  "team": "1",
+  "role": "Documentador(a) y redactor(a)",
+  "receipt_code": "237F51513AFFE471",
+  "evaluations": [
+    {
+      "timestamp": "2026-10-02T18:44:01+00:00",
+      "evaluador_id": "00552285",
+      "evaluador_nombre": "Mendizabal Camacho, Bruno",
+      "equipo": "1",
+      "rol_evaluador": "Documentador(a) y redactor(a)",
+      "evaluado_id": "00545225",
+      "evaluado_nombre": "Carmona Herrera, Ximena",
+      "rol_evaluado": "Analista anatómico(a)",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "buen compromiso con la entrega",
+      "observacion_trabajo_grupo": "nada"
+    },
+    {
+      "timestamp": "2026-10-02T18:44:01+00:00",
+      "evaluador_id": "00552285",
+      "evaluador_nombre": "Mendizabal Camacho, Bruno",
+      "equipo": "1",
+      "rol_evaluador": "Documentador(a) y redactor(a)",
+      "evaluado_id": "00543018",
+      "evaluado_nombre": "Celaya Carlos, Camila",
+      "rol_evaluado": "Analista biomédico(a)",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "buen compromiso con la entrega",
+      "observacion_trabajo_grupo": "nada"
+    },
+    {
+      "timestamp": "2026-10-02T18:44:01+00:00",
+      "evaluador_id": "00552285",
+      "evaluador_nombre": "Mendizabal Camacho, Bruno",
+      "equipo": "1",
+      "rol_evaluador": "Documentador(a) y redactor(a)",
+      "evaluado_id": "00551276",
+      "evaluado_nombre": "Enríquez Moreno, Fabiana",
+      "rol_evaluado": "Revisor(a) de calidad",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "buen compromiso con la entrega",
+      "observacion_trabajo_grupo": "nada"
+    },
+    {
+      "timestamp": "2026-10-02T18:44:01+00:00",
+      "evaluador_id": "00552285",
+      "evaluador_nombre": "Mendizabal Camacho, Bruno",
+      "equipo": "1",
+      "rol_evaluador": "Documentador(a) y redactor(a)",
+      "evaluado_id": "00571493",
+      "evaluado_nombre": "Reyes Ruiz, Sergio Daniel",
+      "rol_evaluado": "Coordinador(a) del equipo",
+      "calificacion": 2,
+      "nivel": "Adecuado pero evidentemente en desarrollo — Cumplió parcialmente las responsabilidades de su rol o necesitó apoyo, recordatorios o seguimiento para completar su participación.",
+      "evidencia_participacion": "poca actuacion en el trabajo",
+      "observacion_trabajo_grupo": "que haga con tiempo su parte"
+    }
+  ]
+}

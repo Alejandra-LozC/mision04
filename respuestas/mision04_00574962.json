@@ -1,0 +1,68 @@
+{
+  "mission": "04",
+  "mission_name": "Protocolo de Oxigenación",
+  "submitted_at": "2026-10-02T18:09:53+00:00",
+  "evaluator_id": "00574962",
+  "evaluator_name": "Robles Cruz, Perla Camila",
+  "team": "3",
+  "role": "Analista anatómico(a)",
+  "receipt_code": "F3A325606B02055F",
+  "evaluations": [
+    {
+      "timestamp": "2026-10-02T18:09:53+00:00",
+      "evaluador_id": "00574962",
+      "evaluador_nombre": "Robles Cruz, Perla Camila",
+      "equipo": "3",
+      "rol_evaluador": "Analista anatómico(a)",
+      "evaluado_id": "00514083",
+      "evaluado_nombre": "Altamirano Reniery, Yael",
+      "rol_evaluado": "Documentador(a) y redactor(a)",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "Realizó de manera correcta, integró información y tuvo buena redacción durante la práctica",
+      "observacion_trabajo_grupo": "Buen trabajo"
+    },
+    {
+      "timestamp": "2026-10-02T18:09:53+00:00",
+      "evaluador_id": "00574962",
+      "evaluador_nombre": "Robles Cruz, Perla Camila",
+      "equipo": "3",
+      "rol_evaluador": "Analista anatómico(a)",
+      "evaluado_id": "00565749",
+      "evaluado_nombre": "Arciniega Perez, Sadot",
+      "rol_evaluado": "Analista biomédico(a)",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "identificó de manera correcta las caracteristicas para la aplicación y contibuyó de manera correcta la información solicitada.",
+      "observacion_trabajo_grupo": "buen trabajo"
+    },
+    {
+      "timestamp": "2026-10-02T18:09:53+00:00",
+      "evaluador_id": "00574962",
+      "evaluador_nombre": "Robles Cruz, Perla Camila",
+      "equipo": "3",
+      "rol_evaluador": "Analista anatómico(a)",
+      "evaluado_id": "00556039",
+      "evaluado_nombre": "Casarrubias Salazar, Areli",
+      "rol_evaluado": "Coordinador(a) del equipo",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "Se encargó de distribuir de manera correcta la información y se aseguró que todo hicieran lo que les correspondía",
+      "observacion_trabajo_grupo": "Buen trabajo"
+    },
+    {
+      "timestamp": "2026-10-02T18:09:53+00:00",
+      "evaluador_id": "00574962",
+      "evaluador_nombre": "Robles Cruz, Perla Camila",
+      "equipo": "3",
+      "rol_evaluador": "Analista anatómico(a)",
+      "evaluado_id": "00494080",
+      "evaluado_nombre": "Sánchez Torices, David Iván",
+      "rol_evaluado": "Revisor(a) de calidad",
+      "calificacion": 3,
+      "nivel": "Competente todavía con áreas de oportunidad — Desempeñó adecuadamente las responsabilidades de su rol y realizó las tareas esperadas, aunque pudo haber aspectos por fortalecer.",
+      "evidencia_participacion": "Se encargó de verificar deque el trabajó estuviera bien y con coherencia, faltó un pco de participación pero fue buen colaborador.",
+      "observacion_trabajo_grupo": ":)"
+    }
+  ]
+}

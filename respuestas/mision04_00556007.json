@@ -1,0 +1,68 @@
+{
+  "mission": "04",
+  "mission_name": "Protocolo de Oxigenación",
+  "submitted_at": "2026-10-02T17:24:20+00:00",
+  "evaluator_id": "00556007",
+  "evaluator_name": "Meza Hoy, Frida Gizet",
+  "team": "6",
+  "role": "Analista biomédico(a)",
+  "receipt_code": "0C3EEB6976E474E8",
+  "evaluations": [
+    {
+      "timestamp": "2026-10-02T17:24:20+00:00",
+      "evaluador_id": "00556007",
+      "evaluador_nombre": "Meza Hoy, Frida Gizet",
+      "equipo": "6",
+      "rol_evaluador": "Analista biomédico(a)",
+      "evaluado_id": "00540793",
+      "evaluado_nombre": "Fonseca Jimenez, Natalia",
+      "rol_evaluado": "Cartógrafo(a) anatómico(a)",
+      "calificacion": 1,
+      "nivel": "Solamente fue testigo del proceso — Su participación observable fue mínima y no permitió identificar un desempeño efectivo de las responsabilidades del rol.",
+      "evidencia_participacion": "trabajo bien",
+      "observacion_trabajo_grupo": "todo me parece bien"
+    },
+    {
+      "timestamp": "2026-10-02T17:24:20+00:00",
+      "evaluador_id": "00556007",
+      "evaluador_nombre": "Meza Hoy, Frida Gizet",
+      "equipo": "6",
+      "rol_evaluador": "Analista biomédico(a)",
+      "evaluado_id": "00561357",
+      "evaluado_nombre": "García Castro, Ana Paula",
+      "rol_evaluado": "Documentador(a) y redactor(a)",
+      "calificacion": 1,
+      "nivel": "Solamente fue testigo del proceso — Su participación observable fue mínima y no permitió identificar un desempeño efectivo de las responsabilidades del rol.",
+      "evidencia_participacion": "trabajo bien",
+      "observacion_trabajo_grupo": "todo me parece bien"
+    },
+    {
+      "timestamp": "2026-10-02T17:24:20+00:00",
+      "evaluador_id": "00556007",
+      "evaluador_nombre": "Meza Hoy, Frida Gizet",
+      "equipo": "6",
+      "rol_evaluador": "Analista biomédico(a)",
+      "evaluado_id": "00550134",
+      "evaluado_nombre": "Pérez García, Mónica",
+      "rol_evaluado": "Coordinador(a) del equipo",
+      "calificacion": 1,
+      "nivel": "Solamente fue testigo del proceso — Su participación observable fue mínima y no permitió identificar un desempeño efectivo de las responsabilidades del rol.",
+      "evidencia_participacion": "trabajo bien",
+      "observacion_trabajo_grupo": "me parece todo bien"
+    },
+    {
+      "timestamp": "2026-10-02T17:24:20+00:00",
+      "evaluador_id": "00556007",
+      "evaluador_nombre": "Meza Hoy, Frida Gizet",
+      "equipo": "6",
+      "rol_evaluador": "Analista biomédico(a)",
+      "evaluado_id": "00557302",
+      "evaluado_nombre": "Vega Mena, Salma Lucia",
+      "rol_evaluado": "Revisor(a) de calidad",
+      "calificacion": 1,
+      "nivel": "Solamente fue testigo del proceso — Su participación observable fue mínima y no permitió identificar un desempeño efectivo de las responsabilidades del rol.",
+      "evidencia_participacion": "trabajo bien",
+      "observacion_trabajo_grupo": "todo me parece bien"
+    }
+  ]
+}

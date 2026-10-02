@@ -1,15 +1,15 @@
 {
   "mission": "04",
   "mission_name": "Protocolo de Oxigenación",
-  "submitted_at": "2026-10-02T18:08:42+00:00",
+  "submitted_at": "2026-10-02T18:08:53+00:00",
   "evaluator_id": "00494080",
   "evaluator_name": "Sánchez Torices, David Iván",
   "team": "3",
   "role": "Revisor(a) de calidad",
-  "receipt_code": "BECDA1E7DDB6234E",
+  "receipt_code": "5DE4A77DAC7EBFF4",
   "evaluations": [
     {
-      "timestamp": "2026-10-02T18:08:42+00:00",
+      "timestamp": "2026-10-02T18:08:53+00:00",
       "evaluador_id": "00494080",
       "evaluador_nombre": "Sánchez Torices, David Iván",
       "equipo": "3",
@@ -23,7 +23,7 @@
       "observacion_trabajo_grupo": "Todo correcto"
     },
     {
-      "timestamp": "2026-10-02T18:08:42+00:00",
+      "timestamp": "2026-10-02T18:08:53+00:00",
       "evaluador_id": "00494080",
       "evaluador_nombre": "Sánchez Torices, David Iván",
       "equipo": "3",
@@ -37,7 +37,7 @@
       "observacion_trabajo_grupo": "Ninguna observación"
     },
     {
-      "timestamp": "2026-10-02T18:08:42+00:00",
+      "timestamp": "2026-10-02T18:08:53+00:00",
       "evaluador_id": "00494080",
       "evaluador_nombre": "Sánchez Torices, David Iván",
       "equipo": "3",
@@ -51,7 +51,7 @@
       "observacion_trabajo_grupo": "Todo excelente"
     },
     {
-      "timestamp": "2026-10-02T18:08:42+00:00",
+      "timestamp": "2026-10-02T18:08:53+00:00",
       "evaluador_id": "00494080",
       "evaluador_nombre": "Sánchez Torices, David Iván",
       "equipo": "3",
@@ -62,7 +62,7 @@
       "calificacion": 4,
       "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
       "evidencia_participacion": "Relacionó la anatomía con una aplicación de Ingeniería Biomédica.",
-      "observacion_trabajo_grupo": "Muy buen despelote"
+      "observacion_trabajo_grupo": "Muy buen desempeño"
     }
   ]
 }

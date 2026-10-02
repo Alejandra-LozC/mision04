@@ -1,0 +1,82 @@
+{
+  "mission": "04",
+  "mission_name": "Protocolo de Oxigenación",
+  "submitted_at": "2026-10-02T18:25:51+00:00",
+  "evaluator_id": "00547540",
+  "evaluator_name": "García Guadarrama, Nicolás",
+  "team": "5",
+  "role": "Analista anatómico(a)",
+  "receipt_code": "1323A981894296DE",
+  "evaluations": [
+    {
+      "timestamp": "2026-10-02T18:25:51+00:00",
+      "evaluador_id": "00547540",
+      "evaluador_nombre": "García Guadarrama, Nicolás",
+      "equipo": "5",
+      "rol_evaluador": "Analista anatómico(a)",
+      "evaluado_id": "00543797",
+      "evaluado_nombre": "Ameneyro Villarino, Lizeth",
+      "rol_evaluado": "Analista biomédico(a)",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "",
+      "observacion_trabajo_grupo": ""
+    },
+    {
+      "timestamp": "2026-10-02T18:25:51+00:00",
+      "evaluador_id": "00547540",
+      "evaluador_nombre": "García Guadarrama, Nicolás",
+      "equipo": "5",
+      "rol_evaluador": "Analista anatómico(a)",
+      "evaluado_id": "00562302",
+      "evaluado_nombre": "Castañón Buendia, Elide",
+      "rol_evaluado": "Documentador(a) y redactor(a)",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "",
+      "observacion_trabajo_grupo": ""
+    },
+    {
+      "timestamp": "2026-10-02T18:25:51+00:00",
+      "evaluador_id": "00547540",
+      "evaluador_nombre": "García Guadarrama, Nicolás",
+      "equipo": "5",
+      "rol_evaluador": "Analista anatómico(a)",
+      "evaluado_id": "00564882",
+      "evaluado_nombre": "Pozos Andrade, Melisa",
+      "rol_evaluado": "Analista anatómico(a)",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "",
+      "observacion_trabajo_grupo": ""
+    },
+    {
+      "timestamp": "2026-10-02T18:25:51+00:00",
+      "evaluador_id": "00547540",
+      "evaluador_nombre": "García Guadarrama, Nicolás",
+      "equipo": "5",
+      "rol_evaluador": "Analista anatómico(a)",
+      "evaluado_id": "00541560",
+      "evaluado_nombre": "Trejo Lujan, Angel Alejandro",
+      "rol_evaluado": "Coordinador(a) del equipo",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "",
+      "observacion_trabajo_grupo": ""
+    },
+    {
+      "timestamp": "2026-10-02T18:25:51+00:00",
+      "evaluador_id": "00547540",
+      "evaluador_nombre": "García Guadarrama, Nicolás",
+      "equipo": "5",
+      "rol_evaluador": "Analista anatómico(a)",
+      "evaluado_id": "00548339",
+      "evaluado_nombre": "de Lira Campos, Diego Esteban",
+      "rol_evaluado": "Revisor(a) de calidad",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "",
+      "observacion_trabajo_grupo": ""
+    }
+  ]
+}

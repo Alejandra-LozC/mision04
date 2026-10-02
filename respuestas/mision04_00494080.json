@@ -1,0 +1,68 @@
+{
+  "mission": "04",
+  "mission_name": "Protocolo de Oxigenación",
+  "submitted_at": "2026-10-02T18:08:42+00:00",
+  "evaluator_id": "00494080",
+  "evaluator_name": "Sánchez Torices, David Iván",
+  "team": "3",
+  "role": "Revisor(a) de calidad",
+  "receipt_code": "BECDA1E7DDB6234E",
+  "evaluations": [
+    {
+      "timestamp": "2026-10-02T18:08:42+00:00",
+      "evaluador_id": "00494080",
+      "evaluador_nombre": "Sánchez Torices, David Iván",
+      "equipo": "3",
+      "rol_evaluador": "Revisor(a) de calidad",
+      "evaluado_id": "00514083",
+      "evaluado_nombre": "Altamirano Reniery, Yael",
+      "rol_evaluado": "Documentador(a) y redactor(a)",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "Integró la información del equipo y organizó el documento de forma clara",
+      "observacion_trabajo_grupo": "Todo correcto"
+    },
+    {
+      "timestamp": "2026-10-02T18:08:42+00:00",
+      "evaluador_id": "00494080",
+      "evaluador_nombre": "Sánchez Torices, David Iván",
+      "equipo": "3",
+      "rol_evaluador": "Revisor(a) de calidad",
+      "evaluado_id": "00565749",
+      "evaluado_nombre": "Arciniega Perez, Sadot",
+      "rol_evaluado": "Analista biomédico(a)",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "Relacionó la anatomía con una aplicación de Ingeniería Biomédica.",
+      "observacion_trabajo_grupo": "Ninguna observación"
+    },
+    {
+      "timestamp": "2026-10-02T18:08:42+00:00",
+      "evaluador_id": "00494080",
+      "evaluador_nombre": "Sánchez Torices, David Iván",
+      "equipo": "3",
+      "rol_evaluador": "Revisor(a) de calidad",
+      "evaluado_id": "00556039",
+      "evaluado_nombre": "Casarrubias Salazar, Areli",
+      "rol_evaluado": "Coordinador(a) del equipo",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "Distribuyó las tareas y dio seguimiento al trabajo del equipo.",
+      "observacion_trabajo_grupo": "Todo excelente"
+    },
+    {
+      "timestamp": "2026-10-02T18:08:42+00:00",
+      "evaluador_id": "00494080",
+      "evaluador_nombre": "Sánchez Torices, David Iván",
+      "equipo": "3",
+      "rol_evaluador": "Revisor(a) de calidad",
+      "evaluado_id": "00574962",
+      "evaluado_nombre": "Robles Cruz, Perla Camila",
+      "rol_evaluado": "Analista biomédico(a)",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "Relacionó la anatomía con una aplicación de Ingeniería Biomédica.",
+      "observacion_trabajo_grupo": "Muy buen despelote"
+    }
+  ]
+}

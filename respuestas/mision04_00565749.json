@@ -1,0 +1,68 @@
+{
+  "mission": "04",
+  "mission_name": "Protocolo de Oxigenación",
+  "submitted_at": "2026-10-02T18:26:14+00:00",
+  "evaluator_id": "00565749",
+  "evaluator_name": "Arciniega Perez, Sadot",
+  "team": "3",
+  "role": "Analista biomédico(a)",
+  "receipt_code": "C84A747A94C4EB35",
+  "evaluations": [
+    {
+      "timestamp": "2026-10-02T18:26:14+00:00",
+      "evaluador_id": "00565749",
+      "evaluador_nombre": "Arciniega Perez, Sadot",
+      "equipo": "3",
+      "rol_evaluador": "Analista biomédico(a)",
+      "evaluado_id": "00514083",
+      "evaluado_nombre": "Altamirano Reniery, Yael",
+      "rol_evaluado": "Documentador(a) y redactor(a)",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "",
+      "observacion_trabajo_grupo": ""
+    },
+    {
+      "timestamp": "2026-10-02T18:26:14+00:00",
+      "evaluador_id": "00565749",
+      "evaluador_nombre": "Arciniega Perez, Sadot",
+      "equipo": "3",
+      "rol_evaluador": "Analista biomédico(a)",
+      "evaluado_id": "00556039",
+      "evaluado_nombre": "Casarrubias Salazar, Areli",
+      "rol_evaluado": "Coordinador(a) del equipo",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "",
+      "observacion_trabajo_grupo": ""
+    },
+    {
+      "timestamp": "2026-10-02T18:26:14+00:00",
+      "evaluador_id": "00565749",
+      "evaluador_nombre": "Arciniega Perez, Sadot",
+      "equipo": "3",
+      "rol_evaluador": "Analista biomédico(a)",
+      "evaluado_id": "00574962",
+      "evaluado_nombre": "Robles Cruz, Perla Camila",
+      "rol_evaluado": "Analista anatómico(a)",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "",
+      "observacion_trabajo_grupo": ""
+    },
+    {
+      "timestamp": "2026-10-02T18:26:14+00:00",
+      "evaluador_id": "00565749",
+      "evaluador_nombre": "Arciniega Perez, Sadot",
+      "equipo": "3",
+      "rol_evaluador": "Analista biomédico(a)",
+      "evaluado_id": "00494080",
+      "evaluado_nombre": "Sánchez Torices, David Iván",
+      "rol_evaluado": "Revisor(a) de calidad",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "",
+      "observacion_trabajo_grupo": ""
+    }
+  ]
+}

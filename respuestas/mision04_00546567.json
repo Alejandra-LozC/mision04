@@ -1,0 +1,82 @@
+{
+  "mission": "04",
+  "mission_name": "Protocolo de Oxigenación",
+  "submitted_at": "2026-10-02T18:45:58+00:00",
+  "evaluator_id": "00546567",
+  "evaluator_name": "Simroth García, Federico",
+  "team": "4",
+  "role": "Coordinador(a) del equipo",
+  "receipt_code": "5D0182F809635AAA",
+  "evaluations": [
+    {
+      "timestamp": "2026-10-02T18:45:58+00:00",
+      "evaluador_id": "00546567",
+      "evaluador_nombre": "Simroth García, Federico",
+      "equipo": "4",
+      "rol_evaluador": "Coordinador(a) del equipo",
+      "evaluado_id": "00546041",
+      "evaluado_nombre": "González Razzón, Karla Melissa",
+      "rol_evaluado": "Documentador(a) y redactor(a)",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "",
+      "observacion_trabajo_grupo": ""
+    },
+    {
+      "timestamp": "2026-10-02T18:45:58+00:00",
+      "evaluador_id": "00546567",
+      "evaluador_nombre": "Simroth García, Federico",
+      "equipo": "4",
+      "rol_evaluador": "Coordinador(a) del equipo",
+      "evaluado_id": "00547481",
+      "evaluado_nombre": "Montemayor Nemer, Isabella",
+      "rol_evaluado": "Revisor(a) de calidad",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "",
+      "observacion_trabajo_grupo": ""
+    },
+    {
+      "timestamp": "2026-10-02T18:45:58+00:00",
+      "evaluador_id": "00546567",
+      "evaluador_nombre": "Simroth García, Federico",
+      "equipo": "4",
+      "rol_evaluador": "Coordinador(a) del equipo",
+      "evaluado_id": "00543215",
+      "evaluado_nombre": "Ochoa Lomeli, Lucía",
+      "rol_evaluado": "Analista biomédico(a)",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "",
+      "observacion_trabajo_grupo": ""
+    },
+    {
+      "timestamp": "2026-10-02T18:45:58+00:00",
+      "evaluador_id": "00546567",
+      "evaluador_nombre": "Simroth García, Federico",
+      "equipo": "4",
+      "rol_evaluador": "Coordinador(a) del equipo",
+      "evaluado_id": "00552586",
+      "evaluado_nombre": "Sánchez Guzmán, Isabella",
+      "rol_evaluado": "Analista biomédico(a)",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "",
+      "observacion_trabajo_grupo": ""
+    },
+    {
+      "timestamp": "2026-10-02T18:45:58+00:00",
+      "evaluador_id": "00546567",
+      "evaluador_nombre": "Simroth García, Federico",
+      "equipo": "4",
+      "rol_evaluador": "Coordinador(a) del equipo",
+      "evaluado_id": "00546467",
+      "evaluado_nombre": "del Real González, Paulina",
+      "rol_evaluado": "Analista anatómico(a)",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "",
+      "observacion_trabajo_grupo": ""
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "mission": "04",
+  "mission_name": "Protocolo de Oxigenación",
+  "submitted_at": "2026-10-02T18:30:46+00:00",
+  "evaluator_id": "00541560",
+  "evaluator_name": "Trejo Lujan, Angel Alejandro",
+  "team": "5",
+  "role": "Cartógrafo(a) anatómico(a)",
+  "receipt_code": "D7AEF90FCECC213E",
+  "evaluations": [
+    {
+      "timestamp": "2026-10-02T18:30:46+00:00",
+      "evaluador_id": "00541560",
+      "evaluador_nombre": "Trejo Lujan, Angel Alejandro",
+      "equipo": "5",
+      "rol_evaluador": "Cartógrafo(a) anatómico(a)",
+      "evaluado_id": "00543797",
+      "evaluado_nombre": "Ameneyro Villarino, Lizeth",
+      "rol_evaluado": "Cartógrafo(a) anatómico(a)",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "buena diciendo relaciones",
+      "observacion_trabajo_grupo": "na"
+    },
+    {
+      "timestamp": "2026-10-02T18:30:46+00:00",
+      "evaluador_id": "00541560",
+      "evaluador_nombre": "Trejo Lujan, Angel Alejandro",
+      "equipo": "5",
+      "rol_evaluador": "Cartógrafo(a) anatómico(a)",
+      "evaluado_id": "00562302",
+      "evaluado_nombre": "Castañón Buendia, Elide",
+      "rol_evaluado": "Revisor(a) de calidad",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "buenas correciones",
+      "observacion_trabajo_grupo": "na"
+    },
+    {
+      "timestamp": "2026-10-02T18:30:46+00:00",
+      "evaluador_id": "00541560",
+      "evaluador_nombre": "Trejo Lujan, Angel Alejandro",
+      "equipo": "5",
+      "rol_evaluador": "Cartógrafo(a) anatómico(a)",
+      "evaluado_id": "00547540",
+      "evaluado_nombre": "García Guadarrama, Nicolás",
+      "rol_evaluado": "Coordinador(a) del equipo",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "buen liderazgo",
+      "observacion_trabajo_grupo": "na"
+    },
+    {
+      "timestamp": "2026-10-02T18:30:46+00:00",
+      "evaluador_id": "00541560",
+      "evaluador_nombre": "Trejo Lujan, Angel Alejandro",
+      "equipo": "5",
+      "rol_evaluador": "Cartógrafo(a) anatómico(a)",
+      "evaluado_id": "00564882",
+      "evaluado_nombre": "Pozos Andrade, Melisa",
+      "rol_evaluado": "Documentador(a) y redactor(a)",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "buena bibliografia",
+      "observacion_trabajo_grupo": "na"
+    },
+    {
+      "timestamp": "2026-10-02T18:30:46+00:00",
+      "evaluador_id": "00541560",
+      "evaluador_nombre": "Trejo Lujan, Angel Alejandro",
+      "equipo": "5",
+      "rol_evaluador": "Cartógrafo(a) anatómico(a)",
+      "evaluado_id": "00548339",
+      "evaluado_nombre": "de Lira Campos, Diego Esteban",
+      "rol_evaluado": "Analista biomédico(a)",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "buenas relaciones",
+      "observacion_trabajo_grupo": "na"
+    }
+  ]
+}

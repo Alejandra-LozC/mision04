@@ -1,0 +1,82 @@
+{
+  "mission": "04",
+  "mission_name": "Protocolo de Oxigenación",
+  "submitted_at": "2026-10-02T16:35:56+00:00",
+  "evaluator_id": "00546251",
+  "evaluator_name": "Valdés Arámbula, Sofia Octivela",
+  "team": "2",
+  "role": "Documentador(a) y redactor(a)",
+  "receipt_code": "AE4217C3AE360E99",
+  "evaluations": [
+    {
+      "timestamp": "2026-10-02T16:35:56+00:00",
+      "evaluador_id": "00546251",
+      "evaluador_nombre": "Valdés Arámbula, Sofia Octivela",
+      "equipo": "2",
+      "rol_evaluador": "Documentador(a) y redactor(a)",
+      "evaluado_id": "00554053",
+      "evaluado_nombre": "Alatorre Quintero, Naomi",
+      "rol_evaluado": "Coordinador(a) del equipo",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "",
+      "observacion_trabajo_grupo": ""
+    },
+    {
+      "timestamp": "2026-10-02T16:35:56+00:00",
+      "evaluador_id": "00546251",
+      "evaluador_nombre": "Valdés Arámbula, Sofia Octivela",
+      "equipo": "2",
+      "rol_evaluador": "Documentador(a) y redactor(a)",
+      "evaluado_id": "00553159",
+      "evaluado_nombre": "Cruz Montes, Erick",
+      "rol_evaluado": "Revisor(a) de calidad",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "",
+      "observacion_trabajo_grupo": ""
+    },
+    {
+      "timestamp": "2026-10-02T16:35:56+00:00",
+      "evaluador_id": "00546251",
+      "evaluador_nombre": "Valdés Arámbula, Sofia Octivela",
+      "equipo": "2",
+      "rol_evaluador": "Documentador(a) y redactor(a)",
+      "evaluado_id": "00569611",
+      "evaluado_nombre": "González Vargas, Fernanda",
+      "rol_evaluado": "Analista anatómico(a)",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "",
+      "observacion_trabajo_grupo": ""
+    },
+    {
+      "timestamp": "2026-10-02T16:35:56+00:00",
+      "evaluador_id": "00546251",
+      "evaluador_nombre": "Valdés Arámbula, Sofia Octivela",
+      "equipo": "2",
+      "rol_evaluador": "Documentador(a) y redactor(a)",
+      "evaluado_id": "00550849",
+      "evaluado_nombre": "Mena Fierro, Daniela",
+      "rol_evaluado": "Cartógrafo(a) anatómico(a)",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "",
+      "observacion_trabajo_grupo": ""
+    },
+    {
+      "timestamp": "2026-10-02T16:35:56+00:00",
+      "evaluador_id": "00546251",
+      "evaluador_nombre": "Valdés Arámbula, Sofia Octivela",
+      "equipo": "2",
+      "rol_evaluador": "Documentador(a) y redactor(a)",
+      "evaluado_id": "00554064",
+      "evaluado_nombre": "Torres Delgado, Karol Guadalupe",
+      "rol_evaluado": "Analista biomédico(a)",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "",
+      "observacion_trabajo_grupo": ""
+    }
+  ]
+}

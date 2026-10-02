@@ -1,0 +1,68 @@
+{
+  "mission": "04",
+  "mission_name": "Protocolo de Oxigenación",
+  "submitted_at": "2026-10-02T17:24:46+00:00",
+  "evaluator_id": "00540793",
+  "evaluator_name": "Fonseca Jimenez, Natalia",
+  "team": "6",
+  "role": "Cartógrafo(a) anatómico(a)",
+  "receipt_code": "0744BA39677424AC",
+  "evaluations": [
+    {
+      "timestamp": "2026-10-02T17:24:46+00:00",
+      "evaluador_id": "00540793",
+      "evaluador_nombre": "Fonseca Jimenez, Natalia",
+      "equipo": "6",
+      "rol_evaluador": "Cartógrafo(a) anatómico(a)",
+      "evaluado_id": "00561357",
+      "evaluado_nombre": "García Castro, Ana Paula",
+      "rol_evaluado": "Documentador(a) y redactor(a)",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "",
+      "observacion_trabajo_grupo": ""
+    },
+    {
+      "timestamp": "2026-10-02T17:24:46+00:00",
+      "evaluador_id": "00540793",
+      "evaluador_nombre": "Fonseca Jimenez, Natalia",
+      "equipo": "6",
+      "rol_evaluador": "Cartógrafo(a) anatómico(a)",
+      "evaluado_id": "00556007",
+      "evaluado_nombre": "Meza Hoy, Frida Gizet",
+      "rol_evaluado": "Analista biomédico(a)",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "",
+      "observacion_trabajo_grupo": ""
+    },
+    {
+      "timestamp": "2026-10-02T17:24:46+00:00",
+      "evaluador_id": "00540793",
+      "evaluador_nombre": "Fonseca Jimenez, Natalia",
+      "equipo": "6",
+      "rol_evaluador": "Cartógrafo(a) anatómico(a)",
+      "evaluado_id": "00550134",
+      "evaluado_nombre": "Pérez García, Mónica",
+      "rol_evaluado": "Coordinador(a) del equipo",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "",
+      "observacion_trabajo_grupo": ""
+    },
+    {
+      "timestamp": "2026-10-02T17:24:46+00:00",
+      "evaluador_id": "00540793",
+      "evaluador_nombre": "Fonseca Jimenez, Natalia",
+      "equipo": "6",
+      "rol_evaluador": "Cartógrafo(a) anatómico(a)",
+      "evaluado_id": "00557302",
+      "evaluado_nombre": "Vega Mena, Salma Lucia",
+      "rol_evaluado": "Revisor(a) de calidad",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "",
+      "observacion_trabajo_grupo": ""
+    }
+  ]
+}

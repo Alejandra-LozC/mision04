@@ -1,15 +1,15 @@
 {
   "mission": "04",
   "mission_name": "Protocolo de Oxigenación",
-  "submitted_at": "2026-10-02T18:45:58+00:00",
+  "submitted_at": "2026-10-02T18:46:39+00:00",
   "evaluator_id": "00546567",
   "evaluator_name": "Simroth García, Federico",
   "team": "4",
   "role": "Coordinador(a) del equipo",
-  "receipt_code": "5D0182F809635AAA",
+  "receipt_code": "E5CB714E24020FE7",
   "evaluations": [
     {
-      "timestamp": "2026-10-02T18:45:58+00:00",
+      "timestamp": "2026-10-02T18:46:39+00:00",
       "evaluador_id": "00546567",
       "evaluador_nombre": "Simroth García, Federico",
       "equipo": "4",
@@ -19,11 +19,11 @@
       "rol_evaluado": "Documentador(a) y redactor(a)",
       "calificacion": 4,
       "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
-      "evidencia_participacion": "",
-      "observacion_trabajo_grupo": ""
+      "evidencia_participacion": "Todo perfecto",
+      "observacion_trabajo_grupo": "Todo perfecto"
     },
     {
-      "timestamp": "2026-10-02T18:45:58+00:00",
+      "timestamp": "2026-10-02T18:46:39+00:00",
       "evaluador_id": "00546567",
       "evaluador_nombre": "Simroth García, Federico",
       "equipo": "4",
@@ -33,11 +33,11 @@
       "rol_evaluado": "Revisor(a) de calidad",
       "calificacion": 4,
       "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
-      "evidencia_participacion": "",
-      "observacion_trabajo_grupo": ""
+      "evidencia_participacion": "Todo perfecto",
+      "observacion_trabajo_grupo": "Todo perfecto"
     },
     {
-      "timestamp": "2026-10-02T18:45:58+00:00",
+      "timestamp": "2026-10-02T18:46:39+00:00",
       "evaluador_id": "00546567",
       "evaluador_nombre": "Simroth García, Federico",
       "equipo": "4",
@@ -47,11 +47,11 @@
       "rol_evaluado": "Analista biomédico(a)",
       "calificacion": 4,
       "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
-      "evidencia_participacion": "",
-      "observacion_trabajo_grupo": ""
+      "evidencia_participacion": "Todo perfecto",
+      "observacion_trabajo_grupo": "Todo perfecto"
     },
     {
-      "timestamp": "2026-10-02T18:45:58+00:00",
+      "timestamp": "2026-10-02T18:46:39+00:00",
       "evaluador_id": "00546567",
       "evaluador_nombre": "Simroth García, Federico",
       "equipo": "4",
@@ -61,11 +61,11 @@
       "rol_evaluado": "Analista biomédico(a)",
       "calificacion": 4,
       "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
-      "evidencia_participacion": "",
-      "observacion_trabajo_grupo": ""
+      "evidencia_participacion": "Todo perfecto",
+      "observacion_trabajo_grupo": "Todo perfecto"
     },
     {
-      "timestamp": "2026-10-02T18:45:58+00:00",
+      "timestamp": "2026-10-02T18:46:39+00:00",
       "evaluador_id": "00546567",
       "evaluador_nombre": "Simroth García, Federico",
       "equipo": "4",
@@ -75,8 +75,8 @@
       "rol_evaluado": "Analista anatómico(a)",
       "calificacion": 4,
       "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
-      "evidencia_participacion": "",
-      "observacion_trabajo_grupo": ""
+      "evidencia_participacion": "Todo perfecto",
+      "observacion_trabajo_grupo": "Todo perfecto"
     }
   ]
 }

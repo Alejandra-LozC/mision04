@@ -1,0 +1,82 @@
+{
+  "mission": "04",
+  "mission_name": "Protocolo de Oxigenación",
+  "submitted_at": "2026-10-02T18:13:45+00:00",
+  "evaluator_id": "00546467",
+  "evaluator_name": "del Real González, Paulina",
+  "team": "4",
+  "role": "Analista anatómico(a)",
+  "receipt_code": "1E90DA735908E978",
+  "evaluations": [
+    {
+      "timestamp": "2026-10-02T18:13:45+00:00",
+      "evaluador_id": "00546467",
+      "evaluador_nombre": "del Real González, Paulina",
+      "equipo": "4",
+      "rol_evaluador": "Analista anatómico(a)",
+      "evaluado_id": "00546041",
+      "evaluado_nombre": "González Razzón, Karla Melissa",
+      "rol_evaluado": "Documentador(a) y redactor(a)",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "Organizó el documento de forma clara",
+      "observacion_trabajo_grupo": ""
+    },
+    {
+      "timestamp": "2026-10-02T18:13:45+00:00",
+      "evaluador_id": "00546467",
+      "evaluador_nombre": "del Real González, Paulina",
+      "equipo": "4",
+      "rol_evaluador": "Analista anatómico(a)",
+      "evaluado_id": "00547481",
+      "evaluado_nombre": "Montemayor Nemer, Isabella",
+      "rol_evaluado": "Revisor(a) de calidad",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "Revisó con presición  el documento que realizamos",
+      "observacion_trabajo_grupo": ""
+    },
+    {
+      "timestamp": "2026-10-02T18:13:45+00:00",
+      "evaluador_id": "00546467",
+      "evaluador_nombre": "del Real González, Paulina",
+      "equipo": "4",
+      "rol_evaluador": "Analista anatómico(a)",
+      "evaluado_id": "00543215",
+      "evaluado_nombre": "Ochoa Lomeli, Lucía",
+      "rol_evaluado": "Analista anatómico(a)",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "Ayudó a generar las aplicaciones de ingeniería biomédica",
+      "observacion_trabajo_grupo": ""
+    },
+    {
+      "timestamp": "2026-10-02T18:13:45+00:00",
+      "evaluador_id": "00546467",
+      "evaluador_nombre": "del Real González, Paulina",
+      "equipo": "4",
+      "rol_evaluador": "Analista anatómico(a)",
+      "evaluado_id": "00546567",
+      "evaluado_nombre": "Simroth García, Federico",
+      "rol_evaluado": "Coordinador(a) del equipo",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "Asignó a cada quien una tarea en específico y se encargo de que todo saliera conforme lo acordado",
+      "observacion_trabajo_grupo": ""
+    },
+    {
+      "timestamp": "2026-10-02T18:13:45+00:00",
+      "evaluador_id": "00546467",
+      "evaluador_nombre": "del Real González, Paulina",
+      "equipo": "4",
+      "rol_evaluador": "Analista anatómico(a)",
+      "evaluado_id": "00552586",
+      "evaluado_nombre": "Sánchez Guzmán, Isabella",
+      "rol_evaluado": "Analista biomédico(a)",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "Se encargo de manera correcta de identificar las estructuras anatómicas y las aplicaciones de ingenieria biomédica.",
+      "observacion_trabajo_grupo": ""
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "mission": "04",
+  "mission_name": "Protocolo de Oxigenación",
+  "submitted_at": "2026-10-03T03:14:06+00:00",
+  "evaluator_id": "00569611",
+  "evaluator_name": "González Vargas, Fernanda",
+  "team": "2",
+  "role": "Documentador(a) y redactor(a)",
+  "receipt_code": "B9F84AB47B7CE1C6",
+  "evaluations": [
+    {
+      "timestamp": "2026-10-03T03:14:06+00:00",
+      "evaluador_id": "00569611",
+      "evaluador_nombre": "González Vargas, Fernanda",
+      "equipo": "2",
+      "rol_evaluador": "Documentador(a) y redactor(a)",
+      "evaluado_id": "00554053",
+      "evaluado_nombre": "Alatorre Quintero, Naomi",
+      "rol_evaluado": "Coordinador(a) del equipo",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "Todo bien con su parte",
+      "observacion_trabajo_grupo": "Nada"
+    },
+    {
+      "timestamp": "2026-10-03T03:14:06+00:00",
+      "evaluador_id": "00569611",
+      "evaluador_nombre": "González Vargas, Fernanda",
+      "equipo": "2",
+      "rol_evaluador": "Documentador(a) y redactor(a)",
+      "evaluado_id": "00553159",
+      "evaluado_nombre": "Cruz Montes, Erick",
+      "rol_evaluado": "Documentador(a) y redactor(a)",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "Todo bien con su padre",
+      "observacion_trabajo_grupo": "Nada"
+    },
+    {
+      "timestamp": "2026-10-03T03:14:06+00:00",
+      "evaluador_id": "00569611",
+      "evaluador_nombre": "González Vargas, Fernanda",
+      "equipo": "2",
+      "rol_evaluador": "Documentador(a) y redactor(a)",
+      "evaluado_id": "00550849",
+      "evaluado_nombre": "Mena Fierro, Daniela",
+      "rol_evaluado": "Cartógrafo(a) anatómico(a)",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "Todo bien con su parte",
+      "observacion_trabajo_grupo": "Nada"
+    },
+    {
+      "timestamp": "2026-10-03T03:14:06+00:00",
+      "evaluador_id": "00569611",
+      "evaluador_nombre": "González Vargas, Fernanda",
+      "equipo": "2",
+      "rol_evaluador": "Documentador(a) y redactor(a)",
+      "evaluado_id": "00554064",
+      "evaluado_nombre": "Torres Delgado, Karol Guadalupe",
+      "rol_evaluado": "Revisor(a) de calidad",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "Todo bien con su parte",
+      "observacion_trabajo_grupo": "Nada"
+    },
+    {
+      "timestamp": "2026-10-03T03:14:06+00:00",
+      "evaluador_id": "00569611",
+      "evaluador_nombre": "González Vargas, Fernanda",
+      "equipo": "2",
+      "rol_evaluador": "Documentador(a) y redactor(a)",
+      "evaluado_id": "00546251",
+      "evaluado_nombre": "Valdés Arámbula, Sofia Octivela",
+      "rol_evaluado": "Revisor(a) de calidad",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "Todo bien con su parte",
+      "observacion_trabajo_grupo": "Nada"
+    }
+  ]
+}

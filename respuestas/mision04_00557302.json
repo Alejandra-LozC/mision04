@@ -1,0 +1,68 @@
+{
+  "mission": "04",
+  "mission_name": "Protocolo de Oxigenación",
+  "submitted_at": "2026-10-03T06:01:25+00:00",
+  "evaluator_id": "00557302",
+  "evaluator_name": "Vega Mena, Salma Lucia",
+  "team": "6",
+  "role": "Revisor(a) de calidad",
+  "receipt_code": "F8E8B4015E601BEF",
+  "evaluations": [
+    {
+      "timestamp": "2026-10-03T06:01:25+00:00",
+      "evaluador_id": "00557302",
+      "evaluador_nombre": "Vega Mena, Salma Lucia",
+      "equipo": "6",
+      "rol_evaluador": "Revisor(a) de calidad",
+      "evaluado_id": "00540793",
+      "evaluado_nombre": "Fonseca Jimenez, Natalia",
+      "rol_evaluado": "Cartógrafo(a) anatómico(a)",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "",
+      "observacion_trabajo_grupo": ""
+    },
+    {
+      "timestamp": "2026-10-03T06:01:25+00:00",
+      "evaluador_id": "00557302",
+      "evaluador_nombre": "Vega Mena, Salma Lucia",
+      "equipo": "6",
+      "rol_evaluador": "Revisor(a) de calidad",
+      "evaluado_id": "00561357",
+      "evaluado_nombre": "García Castro, Ana Paula",
+      "rol_evaluado": "Documentador(a) y redactor(a)",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "",
+      "observacion_trabajo_grupo": ""
+    },
+    {
+      "timestamp": "2026-10-03T06:01:25+00:00",
+      "evaluador_id": "00557302",
+      "evaluador_nombre": "Vega Mena, Salma Lucia",
+      "equipo": "6",
+      "rol_evaluador": "Revisor(a) de calidad",
+      "evaluado_id": "00556007",
+      "evaluado_nombre": "Meza Hoy, Frida Gizet",
+      "rol_evaluado": "Analista biomédico(a)",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "",
+      "observacion_trabajo_grupo": ""
+    },
+    {
+      "timestamp": "2026-10-03T06:01:25+00:00",
+      "evaluador_id": "00557302",
+      "evaluador_nombre": "Vega Mena, Salma Lucia",
+      "equipo": "6",
+      "rol_evaluador": "Revisor(a) de calidad",
+      "evaluado_id": "00550134",
+      "evaluado_nombre": "Pérez García, Mónica",
+      "rol_evaluado": "Coordinador(a) del equipo",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "",
+      "observacion_trabajo_grupo": ""
+    }
+  ]
+}

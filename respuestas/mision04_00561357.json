@@ -1,0 +1,68 @@
+{
+  "mission": "04",
+  "mission_name": "Protocolo de Oxigenación",
+  "submitted_at": "2026-10-03T02:54:37+00:00",
+  "evaluator_id": "00561357",
+  "evaluator_name": "García Castro, Ana Paula",
+  "team": "6",
+  "role": "Documentador(a) y redactor(a)",
+  "receipt_code": "639420C9AC0329C7",
+  "evaluations": [
+    {
+      "timestamp": "2026-10-03T02:54:37+00:00",
+      "evaluador_id": "00561357",
+      "evaluador_nombre": "García Castro, Ana Paula",
+      "equipo": "6",
+      "rol_evaluador": "Documentador(a) y redactor(a)",
+      "evaluado_id": "00540793",
+      "evaluado_nombre": "Fonseca Jimenez, Natalia",
+      "rol_evaluado": "Cartógrafo(a) anatómico(a)",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "Hizo los mapas anatómicos",
+      "observacion_trabajo_grupo": ""
+    },
+    {
+      "timestamp": "2026-10-03T02:54:37+00:00",
+      "evaluador_id": "00561357",
+      "evaluador_nombre": "García Castro, Ana Paula",
+      "equipo": "6",
+      "rol_evaluador": "Documentador(a) y redactor(a)",
+      "evaluado_id": "00556007",
+      "evaluado_nombre": "Meza Hoy, Frida Gizet",
+      "rol_evaluado": "Analista biomédico(a)",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "Mencionó las aplicaciones de la ingeniería biomedica en este problema",
+      "observacion_trabajo_grupo": ""
+    },
+    {
+      "timestamp": "2026-10-03T02:54:37+00:00",
+      "evaluador_id": "00561357",
+      "evaluador_nombre": "García Castro, Ana Paula",
+      "equipo": "6",
+      "rol_evaluador": "Documentador(a) y redactor(a)",
+      "evaluado_id": "00550134",
+      "evaluado_nombre": "Pérez García, Mónica",
+      "rol_evaluado": "Coordinador(a) del equipo",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "Distribuyó las actividades que íbamos a realizar cada uno",
+      "observacion_trabajo_grupo": ""
+    },
+    {
+      "timestamp": "2026-10-03T02:54:37+00:00",
+      "evaluador_id": "00561357",
+      "evaluador_nombre": "García Castro, Ana Paula",
+      "equipo": "6",
+      "rol_evaluador": "Documentador(a) y redactor(a)",
+      "evaluado_id": "00557302",
+      "evaluado_nombre": "Vega Mena, Salma Lucia",
+      "rol_evaluado": "Revisor(a) de calidad",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "Ella completo cada uno de los datos necesarios para terminar esta actividad de manera correcta",
+      "observacion_trabajo_grupo": ""
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "mission": "04",
+  "mission_name": "Protocolo de Oxigenación",
+  "submitted_at": "2026-10-03T02:04:59+00:00",
+  "evaluator_id": "00543215",
+  "evaluator_name": "Ochoa Lomeli, Lucía",
+  "team": "4",
+  "role": "Analista biomédico(a)",
+  "receipt_code": "D5487BB55B4261D5",
+  "evaluations": [
+    {
+      "timestamp": "2026-10-03T02:04:59+00:00",
+      "evaluador_id": "00543215",
+      "evaluador_nombre": "Ochoa Lomeli, Lucía",
+      "equipo": "4",
+      "rol_evaluador": "Analista biomédico(a)",
+      "evaluado_id": "00546041",
+      "evaluado_nombre": "González Razzón, Karla Melissa",
+      "rol_evaluado": "Documentador(a) y redactor(a)",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "Estuvo muy presente durante toda la investigación y aportó a todo.",
+      "observacion_trabajo_grupo": ""
+    },
+    {
+      "timestamp": "2026-10-03T02:04:59+00:00",
+      "evaluador_id": "00543215",
+      "evaluador_nombre": "Ochoa Lomeli, Lucía",
+      "equipo": "4",
+      "rol_evaluador": "Analista biomédico(a)",
+      "evaluado_id": "00547481",
+      "evaluado_nombre": "Montemayor Nemer, Isabella",
+      "rol_evaluado": "Revisor(a) de calidad",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "Revisó todo el documento mientras se realizaba.",
+      "observacion_trabajo_grupo": ""
+    },
+    {
+      "timestamp": "2026-10-03T02:04:59+00:00",
+      "evaluador_id": "00543215",
+      "evaluador_nombre": "Ochoa Lomeli, Lucía",
+      "equipo": "4",
+      "rol_evaluador": "Analista biomédico(a)",
+      "evaluado_id": "00546567",
+      "evaluado_nombre": "Simroth García, Federico",
+      "rol_evaluado": "Coordinador(a) del equipo",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "Estuvo siempre al pendiente de que se cumplieran las tareas.",
+      "observacion_trabajo_grupo": ""
+    },
+    {
+      "timestamp": "2026-10-03T02:04:59+00:00",
+      "evaluador_id": "00543215",
+      "evaluador_nombre": "Ochoa Lomeli, Lucía",
+      "equipo": "4",
+      "rol_evaluador": "Analista biomédico(a)",
+      "evaluado_id": "00552586",
+      "evaluado_nombre": "Sánchez Guzmán, Isabella",
+      "rol_evaluado": "Analista biomédico(a)",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "Investigo de varios desarrollos de acuerdo con la actividad.",
+      "observacion_trabajo_grupo": ""
+    },
+    {
+      "timestamp": "2026-10-03T02:04:59+00:00",
+      "evaluador_id": "00543215",
+      "evaluador_nombre": "Ochoa Lomeli, Lucía",
+      "equipo": "4",
+      "rol_evaluador": "Analista biomédico(a)",
+      "evaluado_id": "00546467",
+      "evaluado_nombre": "del Real González, Paulina",
+      "rol_evaluado": "Analista anatómico(a)",
+      "calificacion": 4,
+      "nivel": "Profesional — Desempeñó las responsabilidades de su rol de manera clara, constante y autónoma, con una participación que contribuyó directamente al avance del equipo.",
+      "evidencia_participacion": "Identifico las estructuras e investigó de ellas.",
+      "observacion_trabajo_grupo": ""
+    }
+  ]
+}
